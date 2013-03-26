@@ -1,0 +1,20 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+.header-overlay {
+	background-color:rgb(87,87,87);
+	height:98px;
+	-moz-border-radius:5px 5px 0px 0px;
+	-webkit-border-radius:5px 5px 0px 0px;
+	border-radius:5px 5px 0px 0px;
+}
+
+.header-overlay h1 {
+	font-family:"Source Sans Pro Semibold", Segoe UI, Droid Sans, Ubuntu, sans-serif;
+	font-size:24px;
+	font-weight:600;
+	line-height:120%;
+	color:rgb(255,255,255);
+	text-align:left;
+}
